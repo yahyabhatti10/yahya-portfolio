@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Airbnb Database Clone",
     description:
-      "Developed a ResiLuxe clone using MySQL and API integration, incorporating advanced database features like joins, stored procedures, and triggers for efficient data management, enabling seamless accommodation booking, user communication, and reviews.",
+      "Developed a Airbnb clone using MySQL and API integration, incorporating advanced database features like joins, stored procedures, and triggers for efficient data management, enabling seamless accommodation booking, user communication, and reviews.",
     technologies: ["Database", "MySQL", "Node.js", "Express.js"],
     link: "https://github.com/yahyabhatti10/Resiluxe",
   },

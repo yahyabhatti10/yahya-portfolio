@@ -26,9 +26,9 @@ const projects = [
   {
     title: "Airbnb Database Clone",
     description:
-      "Developed a feature-rich Airbnb clone using React.js and Tailwind CSS for the frontend, with dynamic search, booking, and filtering functionalities.",
+      "Developed a ResiLuxe clone using MySQL and API integration, incorporating advanced database features like joins, stored procedures, and triggers for efficient data management, enabling seamless accommodation booking, user communication, and reviews.",
     technologies: ["Database", "MySQL", "Node.js", "Express.js"],
-    link: "https://github.com/yahyabhatti10/Airbnb-Clone",
+    link: "https://github.com/yahyabhatti10/Resiluxe",
   },
   {
     title: "Hospital Emergency Ward System",

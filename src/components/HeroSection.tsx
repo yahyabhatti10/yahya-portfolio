@@ -86,7 +86,7 @@ const HeroSection = () => {
                             <Instagram size={28} />
                         </a>
                         <a
-                            href="https://wa.me/3218814089"
+                            href="https://wa.me/+923218814089"
                             className="hover:text-[#DDFE35] transition-all hover:scale-110 duration-300"
                         >
                             <MessageCircle size={28} />

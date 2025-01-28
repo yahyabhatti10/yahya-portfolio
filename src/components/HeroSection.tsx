@@ -26,13 +26,13 @@ const HeroSection = () => {
                         transition={{ duration: 0.5 }}
                         src={profile}
                         alt="Profile"
-                        className="rounded-full w-48 h-48 object-cover mb-8 ring-4 ring-[#DDFE35] transition-transform hover:scale-105 duration-300"
+                        className="rounded-full w-64 h-64 object-cover mb-8 ring-4 ring-[#DDFE35] transition-transform hover:scale-105 duration-300"
                     />
                     <motion.h1
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
                         transition={{ duration: 3, delay: 0.5 }}
-                        className="text-4xl font-bold mb-4 text-[#DDFE35]"
+                        className="text-5xl font-bold mb-4 text-[#DDFE35]"
                     >
                         Muhammad Yahya
                     </motion.h1>
@@ -42,7 +42,7 @@ const HeroSection = () => {
                         transition={{ duration: 0.5, delay: 1 }}
                         className="overflow-hidden"
                     >
-                        <p className="text-xl mb-6">Python Django - ReactJS Developer</p>
+                        <p className="text-2xl mb-6">Python Django - ReactJS Developer</p>
                     </motion.div>
                     <motion.div
                         initial={{ opacity: 0 }}

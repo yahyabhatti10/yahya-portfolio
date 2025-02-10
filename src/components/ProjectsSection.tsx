@@ -13,7 +13,7 @@ const projects = [
     title: "Feel Great System Website",
     description:
       "Created a professional affiliate marketing website for the US Client, focusing on user engagement and seamless navigation to showcase health products of Unicity.",
-    technologies: ["JavaScript","React.js", "Bootstrap", "EmailJS"],
+    technologies: ["JavaScript", "React.js", "Bootstrap", "EmailJS"],
     link: "https://www.feelgreathealthelixir.com/",
   },
   {
@@ -36,6 +36,13 @@ const projects = [
       "Developed a system to manage hospital emergency wards, using a Priority Queue which implemented with a Linked List, system ensures that patients are prioritized based on the severity of their condition, enabling quick and effective decision-making by hospital staff.",
     technologies: ["C++", "Data Structures", "Priority Queue"],
     link: "https://github.com/yahyabhatti10/Hospital-Emergency-Ward-System",
+  },
+  {
+    title: "Health & Fitness Gym Website",
+    description:
+      "Developed a responsive gym website for an Australian client using HTML, CSS, JavaScript, PHP, and MySQL. Built entirely from scratch, the site features secure user registration and login, comprehensive membership management, and a dynamic review system that allows users to post feedback and update their details seamlessly.",
+    technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    link: "https://github.com/yahyabhatti10/gym-website",
   },
   {
     title: "Math Tutor Chatbot",
